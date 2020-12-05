@@ -2,4 +2,8 @@ cfgbdfhhd
 fdsfs
 asdasd
 sadasd
+<<<<<<< HEAD
 kljlkj
+=======
+kljlkj
+>>>>>>> parent of 65cc9cb (new5)
